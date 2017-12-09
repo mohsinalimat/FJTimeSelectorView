@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "FJTimeSelectorDemo"
+  s.name         = "FJTimeSelectorView"
   s.version      = "1.0.0"
   s.summary      = "刻度选择器 :通过FJTimeScaleStyle类对刻度进行配置"
   s.homepage     = "http://www.jianshu.com/p/57c94ab121c3"
@@ -8,8 +8,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, '7.0'
   s.ios.deployment_target = '7.0'
   s.source       = { :git => "https://github.com/fangjinfeng/FJTimeSelectorView.git", :tag => "1.0.0" }
-  s.source_files = 'FJTimeSelectorView/**/*.{h,m}'
+  s.source_files = 'FJTimeSelectorView/*.{h,m}'
   s.requires_arc = true
   s.framework  = 'UIKit'
-  s.dependency "SDWebImage", "~> 4.1.0"
 end
