@@ -1,6 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "FJTimeSelectorView"
-  s.version      = "刻度选择器 :通过FJTimeScaleStyle类进行相关参数配置,同时通过回调当前值"
+  s.version      = "1.0.0"
+  s.summary      = "刻度选择器 :通过FJTimeScaleStyle类进行相关参数配置,同时通过回调当前值"
   s.homepage     = "https://github.com/fangjinfeng/FJTimeSelectorView"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { 'fangjinfeng' => '116418179@qq.com' }
