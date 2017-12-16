@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		300549AA1FE4CCB90095778C /* FJTimeScaleBlankCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 300549A11FE4CCB90095778C /* FJTimeScaleBlankCell.m */; };
+		300549AB1FE4CCB90095778C /* FJTimeScaleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 300549A31FE4CCB90095778C /* FJTimeScaleCell.m */; };
+		300549AC1FE4CCB90095778C /* FJTimeScaleModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 300549A51FE4CCB90095778C /* FJTimeScaleModel.m */; };
+		300549AD1FE4CCB90095778C /* FJTimeScaleStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = 300549A71FE4CCB90095778C /* FJTimeScaleStyle.m */; };
+		300549AE1FE4CCB90095778C /* FJTimeSelectorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 300549A91FE4CCB90095778C /* FJTimeSelectorView.m */; };
 		30AC624D1FDBC1EE0094CEF2 /* MDMTimeSelectorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC624B1FDBC1EE0094CEF2 /* MDMTimeSelectorView.m */; };
 		30AC624E1FDBC1EE0094CEF2 /* MDMSetChildrenAgeView.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC624C1FDBC1EE0094CEF2 /* MDMSetChildrenAgeView.m */; };
 		30AC62531FDBC23E0094CEF2 /* NSString+DayCount.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC62521FDBC23E0094CEF2 /* NSString+DayCount.m */; };
-		30AC626F1FDBC2B00094CEF2 /* FJTimeScaleBlankCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC62661FDBC2B00094CEF2 /* FJTimeScaleBlankCell.m */; };
-		30AC62701FDBC2B00094CEF2 /* FJTimeScaleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC62681FDBC2B00094CEF2 /* FJTimeScaleCell.m */; };
-		30AC62711FDBC2B00094CEF2 /* FJTimeScaleModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC626A1FDBC2B00094CEF2 /* FJTimeScaleModel.m */; };
-		30AC62721FDBC2B00094CEF2 /* FJTimeScaleStyle.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC626C1FDBC2B00094CEF2 /* FJTimeScaleStyle.m */; };
-		30AC62731FDBC2B00094CEF2 /* FJTimeSelectorView.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC626E1FDBC2B00094CEF2 /* FJTimeSelectorView.m */; };
 		30AC62771FDBC3F00094CEF2 /* UIColor+APPColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC62761FDBC3F00094CEF2 /* UIColor+APPColor.m */; };
 		30AC627B1FDBC3F80094CEF2 /* UIFont+APPFont.m in Sources */ = {isa = PBXBuildFile; fileRef = 30AC627A1FDBC3F80094CEF2 /* UIFont+APPFont.m */; };
 		30BBA4C81FD646D5002B723F /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 30BBA4C71FD646D5002B723F /* AppDelegate.m */; };
@@ -45,22 +45,22 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		300549A01FE4CCB90095778C /* FJTimeScaleBlankCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeScaleBlankCell.h; sourceTree = "<group>"; };
+		300549A11FE4CCB90095778C /* FJTimeScaleBlankCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeScaleBlankCell.m; sourceTree = "<group>"; };
+		300549A21FE4CCB90095778C /* FJTimeScaleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeScaleCell.h; sourceTree = "<group>"; };
+		300549A31FE4CCB90095778C /* FJTimeScaleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeScaleCell.m; sourceTree = "<group>"; };
+		300549A41FE4CCB90095778C /* FJTimeScaleModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeScaleModel.h; sourceTree = "<group>"; };
+		300549A51FE4CCB90095778C /* FJTimeScaleModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeScaleModel.m; sourceTree = "<group>"; };
+		300549A61FE4CCB90095778C /* FJTimeScaleStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeScaleStyle.h; sourceTree = "<group>"; };
+		300549A71FE4CCB90095778C /* FJTimeScaleStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeScaleStyle.m; sourceTree = "<group>"; };
+		300549A81FE4CCB90095778C /* FJTimeSelectorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeSelectorView.h; sourceTree = "<group>"; };
+		300549A91FE4CCB90095778C /* FJTimeSelectorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeSelectorView.m; sourceTree = "<group>"; };
 		30AC62491FDBC1EE0094CEF2 /* MDMSetChildrenAgeView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MDMSetChildrenAgeView.h; sourceTree = "<group>"; };
 		30AC624A1FDBC1EE0094CEF2 /* MDMTimeSelectorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MDMTimeSelectorView.h; sourceTree = "<group>"; };
 		30AC624B1FDBC1EE0094CEF2 /* MDMTimeSelectorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MDMTimeSelectorView.m; sourceTree = "<group>"; };
 		30AC624C1FDBC1EE0094CEF2 /* MDMSetChildrenAgeView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MDMSetChildrenAgeView.m; sourceTree = "<group>"; };
 		30AC62511FDBC23E0094CEF2 /* NSString+DayCount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+DayCount.h"; sourceTree = "<group>"; };
 		30AC62521FDBC23E0094CEF2 /* NSString+DayCount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+DayCount.m"; sourceTree = "<group>"; };
-		30AC62651FDBC2B00094CEF2 /* FJTimeScaleBlankCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeScaleBlankCell.h; sourceTree = "<group>"; };
-		30AC62661FDBC2B00094CEF2 /* FJTimeScaleBlankCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeScaleBlankCell.m; sourceTree = "<group>"; };
-		30AC62671FDBC2B00094CEF2 /* FJTimeScaleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeScaleCell.h; sourceTree = "<group>"; };
-		30AC62681FDBC2B00094CEF2 /* FJTimeScaleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeScaleCell.m; sourceTree = "<group>"; };
-		30AC62691FDBC2B00094CEF2 /* FJTimeScaleModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeScaleModel.h; sourceTree = "<group>"; };
-		30AC626A1FDBC2B00094CEF2 /* FJTimeScaleModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeScaleModel.m; sourceTree = "<group>"; };
-		30AC626B1FDBC2B00094CEF2 /* FJTimeScaleStyle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeScaleStyle.h; sourceTree = "<group>"; };
-		30AC626C1FDBC2B00094CEF2 /* FJTimeScaleStyle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeScaleStyle.m; sourceTree = "<group>"; };
-		30AC626D1FDBC2B00094CEF2 /* FJTimeSelectorView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FJTimeSelectorView.h; sourceTree = "<group>"; };
-		30AC626E1FDBC2B00094CEF2 /* FJTimeSelectorView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FJTimeSelectorView.m; sourceTree = "<group>"; };
 		30AC62751FDBC3F00094CEF2 /* UIColor+APPColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+APPColor.h"; sourceTree = "<group>"; };
 		30AC62761FDBC3F00094CEF2 /* UIColor+APPColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+APPColor.m"; sourceTree = "<group>"; };
 		30AC62791FDBC3F80094CEF2 /* UIFont+APPFont.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIFont+APPFont.h"; sourceTree = "<group>"; };
@@ -108,6 +108,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		3005499F1FE4CCB90095778C /* FJTimeSelectorView */ = {
+			isa = PBXGroup;
+			children = (
+				300549A01FE4CCB90095778C /* FJTimeScaleBlankCell.h */,
+				300549A11FE4CCB90095778C /* FJTimeScaleBlankCell.m */,
+				300549A21FE4CCB90095778C /* FJTimeScaleCell.h */,
+				300549A31FE4CCB90095778C /* FJTimeScaleCell.m */,
+				300549A41FE4CCB90095778C /* FJTimeScaleModel.h */,
+				300549A51FE4CCB90095778C /* FJTimeScaleModel.m */,
+				300549A61FE4CCB90095778C /* FJTimeScaleStyle.h */,
+				300549A71FE4CCB90095778C /* FJTimeScaleStyle.m */,
+				300549A81FE4CCB90095778C /* FJTimeSelectorView.h */,
+				300549A91FE4CCB90095778C /* FJTimeSelectorView.m */,
+			);
+			path = FJTimeSelectorView;
+			sourceTree = SOURCE_ROOT;
+		};
 		30AC624F1FDBC23E0094CEF2 /* Category */ = {
 			isa = PBXGroup;
 			children = (
@@ -125,24 +142,6 @@
 				30AC62521FDBC23E0094CEF2 /* NSString+DayCount.m */,
 			);
 			path = NSString;
-			sourceTree = "<group>";
-		};
-		30AC62641FDBC2B00094CEF2 /* FJTimeSelectorView */ = {
-			isa = PBXGroup;
-			children = (
-				30AC62651FDBC2B00094CEF2 /* FJTimeScaleBlankCell.h */,
-				30AC62661FDBC2B00094CEF2 /* FJTimeScaleBlankCell.m */,
-				30AC62671FDBC2B00094CEF2 /* FJTimeScaleCell.h */,
-				30AC62681FDBC2B00094CEF2 /* FJTimeScaleCell.m */,
-				30AC62691FDBC2B00094CEF2 /* FJTimeScaleModel.h */,
-				30AC626A1FDBC2B00094CEF2 /* FJTimeScaleModel.m */,
-				30AC626B1FDBC2B00094CEF2 /* FJTimeScaleStyle.h */,
-				30AC626C1FDBC2B00094CEF2 /* FJTimeScaleStyle.m */,
-				30AC626D1FDBC2B00094CEF2 /* FJTimeSelectorView.h */,
-				30AC626E1FDBC2B00094CEF2 /* FJTimeSelectorView.m */,
-			);
-			name = FJTimeSelectorView;
-			path = ../../MDM/MDM/Classes/Profile/View/MDMSetChildrenAgeView/FJTimeSelectorView;
 			sourceTree = "<group>";
 		};
 		30AC62741FDBC3F00094CEF2 /* UIColor */ = {
@@ -166,7 +165,6 @@
 		30BBA4BA1FD646D5002B723F = {
 			isa = PBXGroup;
 			children = (
-				30AC62641FDBC2B00094CEF2 /* FJTimeSelectorView */,
 				30BBA4C51FD646D5002B723F /* FJTimeSelectorDemo */,
 				30BBA4DE1FD646D5002B723F /* FJTimeSelectorDemoTests */,
 				30BBA4E91FD646D5002B723F /* FJTimeSelectorDemoUITests */,
@@ -187,6 +185,7 @@
 		30BBA4C51FD646D5002B723F /* FJTimeSelectorDemo */ = {
 			isa = PBXGroup;
 			children = (
+				3005499F1FE4CCB90095778C /* FJTimeSelectorView */,
 				30AC624F1FDBC23E0094CEF2 /* Category */,
 				30BBA4C61FD646D5002B723F /* AppDelegate.h */,
 				30BBA4C71FD646D5002B723F /* AppDelegate.m */,
@@ -357,18 +356,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				30AC624E1FDBC1EE0094CEF2 /* MDMSetChildrenAgeView.m in Sources */,
+				300549AD1FE4CCB90095778C /* FJTimeScaleStyle.m in Sources */,
+				300549AC1FE4CCB90095778C /* FJTimeScaleModel.m in Sources */,
+				300549AA1FE4CCB90095778C /* FJTimeScaleBlankCell.m in Sources */,
+				300549AE1FE4CCB90095778C /* FJTimeSelectorView.m in Sources */,
 				30BBA4CB1FD646D5002B723F /* ViewController.m in Sources */,
 				30BBA4D61FD646D5002B723F /* main.m in Sources */,
-				30AC62721FDBC2B00094CEF2 /* FJTimeScaleStyle.m in Sources */,
-				30AC62701FDBC2B00094CEF2 /* FJTimeScaleCell.m in Sources */,
-				30AC62711FDBC2B00094CEF2 /* FJTimeScaleModel.m in Sources */,
 				30AC62531FDBC23E0094CEF2 /* NSString+DayCount.m in Sources */,
-				30AC626F1FDBC2B00094CEF2 /* FJTimeScaleBlankCell.m in Sources */,
 				30BBA4C81FD646D5002B723F /* AppDelegate.m in Sources */,
 				30AC62771FDBC3F00094CEF2 /* UIColor+APPColor.m in Sources */,
-				30AC62731FDBC2B00094CEF2 /* FJTimeSelectorView.m in Sources */,
 				30AC627B1FDBC3F80094CEF2 /* UIFont+APPFont.m in Sources */,
 				30AC624D1FDBC1EE0094CEF2 /* MDMTimeSelectorView.m in Sources */,
+				300549AB1FE4CCB90095778C /* FJTimeScaleCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
